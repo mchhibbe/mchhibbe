@@ -5,7 +5,7 @@
 - 👯 &nbsp; I’m looking to collaborate in: Anything in ML or Distributed Systems domain
 - 🤔 &nbsp; I’m looking for help with: Starting out in research
 - 💬 &nbsp; Ask me about: Well, anything.. :) 
-- ⚡ &nbsp;Fun fact: I :heart: playing chess, watching anime, reading books and competitive programming. 
+- ⚡ &nbsp; Fun fact: I :heart: playing chess, watching anime, reading books and competitive programming. 
 
 
 

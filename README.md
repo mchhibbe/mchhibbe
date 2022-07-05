@@ -19,7 +19,7 @@
 
 📝 &nbsp; My stats
 ---
-<a href="https://stackoverflow.com/users/9928908/manav-chhibber"><img src="https://stackoverflow.com/users/flair/9928908.png" width="208" height="58" alt="profile for Manav Chhibber at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Manav Chhibber at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/9928908/manav-chhibber"><img src="https://stackoverflow.com/users/flair/9928908.png?theme=clean" width="208" height="58" alt="Manav Chhibber's Stackoverflow profile" title="Manav Chhibber's Stackoverflow profile" ></a>
 
 <a href="https://github.com/mchhibber">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=mchhibber&show_icons=true&count_private=true&include_all_commits=true" />

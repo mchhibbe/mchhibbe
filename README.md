@@ -17,7 +17,7 @@
 <a href="https://instagram.com/chhibbermanav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chhibbermanav" height="30" width="40" /></a>
 
 
-📝 &nbsp; My stats
+📝 &nbsp; My Stats
 ---
 <a href="https://stackoverflow.com/users/9928908/manav-chhibber"><img src="https://stackoverflow.com/users/flair/9928908.png?theme=clean" width="208" height="58" alt="Manav Chhibber's Stackoverflow profile" title="Manav Chhibber's Stackoverflow profile" ></a>
 

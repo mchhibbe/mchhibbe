@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp; I’m currently working as: SDE-I at Amazon India
 - 🌱 &nbsp; I’m currently learning: ML, System Design and Investing
-- 👯 &nbsp; I’m looking to collaborate in: Anything in ML or Distributed Systems domain
+- 👯 &nbsp; I’m looking to collaborate in: Anything tech savy
 - 💬 &nbsp; Ask me about: Well, anything.. :) 
 - ⚡ &nbsp; Fun fact: I :heart: playing chess, watching anime, reading books and competitive programming. 
 <!-- - 🤔 &nbsp; I’m looking for help with: Starting out in research -->

@@ -1,4 +1,4 @@
- ## [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there👋,%20this%20is%20Manav%20&width=800&height=75)](https://github.com/mchhibber)
+ ## [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20there👋,%20this%20is%20Manav%20&width=800&height=75)](https://github.com/mchhibbe)
 
 - 🔭 &nbsp; I’m currently working as: SDE-II at Amazon India
 - 🌱 &nbsp; I’m currently learning: ML, System Design and Investing
